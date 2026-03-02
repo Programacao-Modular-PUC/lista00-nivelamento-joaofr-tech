@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class hello {
+public class Ex1Fatorial {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Valor: ");
