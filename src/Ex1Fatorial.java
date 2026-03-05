@@ -11,5 +11,6 @@ public class Ex1Fatorial {
         }
 
         System.out.println(fatorial);
+
     }
 }
